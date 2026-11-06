@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- No entitlements. The App Sandbox is off because it blocks the Accessibility API
+	     (mach-lookup com.apple.axserver), which Cut uses to leave Finder's rename and search fields alone.
+	     Networking is blocked instead by a kernel sandbox profile Cut applies to itself at launch:
+	     Sources/CutKit/NoNetwork.swift. -->
+</dict>
+</plist>
