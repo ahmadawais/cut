@@ -2,7 +2,7 @@
 
 <h1 align="center">Cut</h1>
 
-<p align="center">⌘X and ⌘V to move files in Finder. Like Windows.</p>
+<p align="center">Cut and Paste files in Mac. Finally.</p>
 
 Select files, press ⌘X, open another folder, press ⌘V. Done.
 
